@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-06-01T11:14:27.270287+00:00",
+  "data_referencia": "2026-06-01",
+  "airport_icao": "SBMT",
+  "airport_name": "SBMT",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBMT",
+    "sg_aerodromo_iata": "",
+    "descricao": "CAMPO DE MARTE - SÃO PAULO - SP - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}
